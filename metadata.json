@@ -1,0 +1,6 @@
+{
+  "name": "NK Bakery | Piravom",
+  "description": "Modern artisanal bakery in Piravom, Kerala offering daily fresh breads, warm puffs, celebration cakes, traditional sweets, and specialty beverages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
